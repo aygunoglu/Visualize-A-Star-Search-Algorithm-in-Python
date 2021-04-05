@@ -1,6 +1,5 @@
-# Welcome to GitHub Desktop!
+Visualize the A-Star Search Algorithm with Python, using the PyGame module. 
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+Includes two versions, one can search only in four directions, while the other can search in all eight directions.
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
-Hasan Aygünoğlu
+Hasan Aygünoğlu.
